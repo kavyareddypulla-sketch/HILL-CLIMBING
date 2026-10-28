@@ -115,6 +115,7 @@ SimpleHillClimbing()
 
 <img width="497" height="426" alt="image" src="https://github.com/user-attachments/assets/32c9dd00-a69a-4f95-92fe-bc463982df88" />
 
+
 <img width="451" height="412" alt="image" src="https://github.com/user-attachments/assets/9eaa8c86-0caf-48f4-8ceb-12c0a3799f89" />
 
 ## RESULT
